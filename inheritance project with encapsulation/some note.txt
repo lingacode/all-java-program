@@ -1,0 +1,2 @@
+in java every class bydefault  extends object class
+every java class parents class is object class
